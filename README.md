@@ -3,9 +3,9 @@ Flight Fare Prediction Application is a Web application based on Machine learnin
 # FlowChart
 <img src="https://github.com/shivisingla/airwayspriceprediction/blob/main/Flowchart.png">
 # Input-Images
-<img src="">
-<img src="">
+<img src="https://github.com/shivisingla/airwayspriceprediction/blob/main/1.JPG">
+<img src="https://github.com/shivisingla/airwayspriceprediction/blob/main/2.JPG">
 # Output-Image
-<img src="">
+<img src="https://github.com/shivisingla/airwayspriceprediction/blob/main/3.JPG">
 # Link generated from heroku
 https://airwaysfareprediction.herokuapp.com/predict
