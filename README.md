@@ -3,9 +3,8 @@ Flight Fare Prediction Application is a Web application based on Machine learnin
 # Overview:
 PThis is a FLask web app the predicts the price of the different airways for various destination from different departure Cities.
 # Novelty:
-Applied feature engineering to drop unwanted features, handle missing values, handle categorical features, handle feature scaling, remove outliers, explore the Correlation between numerical features, find relation between features and labels. This led to reduced mean squared error of the algorithm without increasing the complexity of the model.
-
-Hyperparameter Tuning was performed. Grid search technique was used to select the best model among linear regression, lasso, and decision tree and subsequently the hyperparameters for the final model build which was used in the website
+1. Engineering features were applied to remove outliers, drop unwanted data, handle categoricl features, missing values, , explore the correltion b/w numerical features, relating b/w labels and features. Mean squared error of the algorithm was reduced w/o increasing model's complexity.
+2. Techniques like grid search and hyperparameter tuning were used to select best model to a build a model suitable for website.
 # FlowChart
 <img src="https://github.com/shivisingla/airwayspriceprediction/blob/main/Flowchart.png">
 # InputImages
